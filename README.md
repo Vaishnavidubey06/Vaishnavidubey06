@@ -20,7 +20,3 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Vaishnavidubey06)&nbsp;[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/--------/)&nbsp;  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Vaishnavidubey06)&nbsp;  
 
 ![Visitor Count](https://profile-counter.glitch.me/Vaishnavidubey06/count.svg)
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/Vaishnavidubey06/count.svg" alt="Visitor Count" />
-</p>
